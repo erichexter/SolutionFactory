@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>solutionfactory</id>
+    <version>1.0.3</version>
+    <description>Solution Factory is a Visual Studio library that reduces the friction of automating multi-project template</description>
+    <authors>
+      <author>Eric Hexter</author>
+    </authors>
+    <language>en-US</language>
+    <created>2010-09-27T22:08:39.6735492-05:00</created>
+    <modified>2010-09-27T22:08:39.6745492-05:00</modified>
+  </metadata>
+</package>
